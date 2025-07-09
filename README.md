@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there! I'm Rohan Thakre
 
-<!--
-**RohanThakre7/RohanThakre7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate and dedicated engineering student, actively exploring the world of **Web Development** and **AI**. I love learning new technologies and building practical, real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Pursuing Engineering in IT  
+- 🌱 Currently learning: **MERN Stack**, **Machine Learning**, and **API Testing**  
+- 🛠️ Tools & Technologies:  
+  - **Languages**: JavaScript, Python, C++, SQL  
+  - **Web**: HTML, CSS, JavaScript, React, Node.js, Express.js  
+  - **Database**: MongoDB, MySQL  
+  - **Others**: Git, GitHub, Postman, Mongoose, VS Code
+
+---
+
+## 🧠 Projects & Contributions
+
+- 💻 CRUD Applications with **Node.js + MongoDB**
+- 🌐 Responsive web designs using **HTML/CSS/JavaScript**
+
+---
+
+## 🏆 Achievements
+
+### 👨‍💻 Technical
+- Completed real-time CRUD operations using **MERN stack**
+- Designed and implemented **RESTful APIs** for multiple projects
+- Participated in inter-college coding and project competitions
+
+### 🧍‍♂️ Personal
+- Consistently learning and implementing new concepts through self-motivation
+- Regularly contribute to classroom and team projects
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-thakre-77a700259)
+- 📧 Email: thakrerohan160@gmail.com
+
+Thanks for visiting! Don’t forget to ⭐️ my repositories if you find them helpful!
+
+
