@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated engineering student
 ## 🚀 About Me
 
 - 🎓 Pursuing Engineering in IT  
-- 🌱 Currently learning: **MERN Stack**, **Machine Learning**, and **API Testing**  
+- 🌱 Currently learning: **MERN Stack** and **API Testing**  
 - 🛠️ Tools & Technologies:  
   - **Languages**: JavaScript, Python, C++, SQL  
   - **Web**: HTML, CSS, JavaScript, React, Node.js, Express.js  
