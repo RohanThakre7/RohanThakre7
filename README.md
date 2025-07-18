@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Rohan Thakre
+#  Hi there! I'm Rohan Thakre
 
 Welcome to my GitHub profile! I'm a passionate and dedicated engineering student, actively exploring the world of **Web Development** and **AI**. I love learning new technologies and building practical, real-world projects.
 
