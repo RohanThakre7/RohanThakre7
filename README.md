@@ -33,6 +33,30 @@ Welcome to my GitHub profile! I'm a passionate and dedicated engineering student
 ### 🧍‍♂️ Personal
 - Consistently learning and implementing new concepts through self-motivation
 - Regularly contribute to classroom and team projects
+```
++-----------------------------------------------+
+| * * * * * * * * * * * * * * * * * * * * * * |
+|                   Believer                   |
++-----------------------------------------------+
+
+          ++                                      
+         +++            Welcome to my GitHub!          
+      ++++++++                                     
+     +          ++                                 
+    (  <•>  <•>  )         I am a **Believer**      
+     \    --    /       in Code, Creativity & Learning  
+      \        /                                   
+       \  --  /                                   
+        ++++++                                    
+           ++          Projects | Ideas | Growth  
+
+  ---------------------------------------------------
+  Feel free to explore my repositories!
+  Connect with me on GitHub if you like my work.
+
+         ⭐ Keep Creating. Keep Believing. ⭐
+  ---------------------------------------------------
+```
 
 ---
 
