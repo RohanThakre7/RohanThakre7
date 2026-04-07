@@ -34,15 +34,11 @@ Welcome to my GitHub profile! I'm a passionate and dedicated engineering student
 - Consistently learning and implementing new concepts through self-motivation
 - Regularly contribute to classroom and team projects
 ```
-
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-thakre-77a700259)
+📫 Let's Connect
+ 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-thakre-77a700259)
 - 📧 Email: thakrerohan160@gmail.com
 
 Thanks for visiting! Don’t forget to ⭐️ my repositories if you find them helpful!
 
 
+---
