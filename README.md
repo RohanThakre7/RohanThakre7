@@ -31,5 +31,3 @@ Welcome to my GitHub profile! I'm a passionate and dedicated engineering student
 ### 🧍‍♂️ Personal
 - Consistently learning and implementing new concepts through self-motivation
 - Regularly contribute to classroom and team projects
-```
-
