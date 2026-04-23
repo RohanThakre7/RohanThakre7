@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated engineering student
 ## 🧠 Projects & Contributions
 
 - 💻 CRUD Applications with **Node.js + MongoDB**
-- 🌐 Responsive web designs using **HTML/CSS/JavaScript**
+- 🌐 Responsive web designs using **HTML/CSS/JavaScript/React**
   
 ## 🏆 Achievements
 
